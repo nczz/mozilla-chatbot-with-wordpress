@@ -1,0 +1,11 @@
+logs/*
+!logs/index.html
+.user.ini
+.well-known
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+.AppleDouble
+.LSOverride
+type*/*.jpg
